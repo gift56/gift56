@@ -9,7 +9,7 @@
 
 - :trident: I am passionate about web and mobile technologies with great eye for super user experience.
 - 👯 I enjoy collaborating and participating in team discussions and planning.
-- 🌱 I'm done with my Frontend Career Training as a frontend developer at African Trainovation Consulting Limited.
+- 🌱 I'm done with my Career Training as a Frontend Developer at African Trainovation Consulting Limited.
 - 🤔 I’m on the lookout for Internships and entry level roles (Frontend-Developer).
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asiughu-efe-gift-3780ba231/) 
 
