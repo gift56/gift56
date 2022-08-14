@@ -4,7 +4,7 @@
 
 - :man: I am a Frontend Web Developer with experience using a variety of programming languages to create user-friendly webpages 😊
 
-- :blossom: I have strong technical skills, visual sense, understanding of UX with strong communication skills.
+- :blossom: I have a strong technical skills, visual sense, understanding of UX with strong communication skills.
 
 
 - :trident: I am passionate about web and mobile technologies with great eye for super user experience.
