@@ -11,7 +11,7 @@
 - 👯 I enjoy collaborating and participating in team discussions and planning.
 - 🌱 I'm done with my Career Training as a Frontend Developer at African Trainovation Consulting Limited.
 - 🤔 I’m on the lookout for Internships and entry level roles (Frontend-Developer).
-- 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asiughu-efe-gift-3780ba231/) 
+- 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-gift-109120241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AsiughuE)
 
 - ⚡ Fun fact: Aside Coding, I love sports.
 
