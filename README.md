@@ -32,18 +32,17 @@
   <a href="https://github.com" target="_blank" rel="noreferrer"> 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;"/>](https://github.com/gift56)
 </a>
-
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
  </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
- <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme- generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 
 <img align="left" alt="Stat" src="https://github-readme-stats.vercel.app/api?username=gift56&show_icons=true&hide_border=true" />
 
-### Contribution Graph
+<!-- ### Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gift56)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gift56) -->
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
