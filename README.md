@@ -43,6 +43,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gift56)](https://github.com/gift56/github-readme-stats)
 
+
+### Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gift56)
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
