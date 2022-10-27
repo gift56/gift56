@@ -39,21 +39,7 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 
 ---
-![](https://komarev.com/ghpvc/?username=gift56)
 
-<div align="center">
-   <a id="page" href="https://5c0.github.io" target="_blank">
-      
- <img src="https://user-images.githubusercontent.com/93293719/189478020-75f9d9e9-3fe8-48c5-89a5-1f9f76ac27f4.gif"/>  </a>
-    <div>
- <div>
-    
-<img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
-
-
-</div>
-
----
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
