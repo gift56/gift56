@@ -47,6 +47,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gift56)](https://github.com/gift56/github-readme-stats)
 
-
 ### Stats
 ![Gift56's GitHub stats](https://github-readme-stats.vercel.app/api?username=gift56&count_private=true)
