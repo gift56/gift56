@@ -22,6 +22,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"  height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"  height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"  height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  height="40" style="vertical-align:top; margin:4px">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"   height="40" style="vertical-align:top; margin:4px">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
+ <a href="https://github.com/gift56" target="_blank" rel="noreferrer"> 
+<img  src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
+ </a>
 
 </p>
  
