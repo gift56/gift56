@@ -38,6 +38,7 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"  height="40" alt="NextJs" style="vertical-align:top;   margin:4px" />
 </a>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 </p>
  
 ---
