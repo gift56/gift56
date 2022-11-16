@@ -11,13 +11,14 @@
 - 👯 I enjoy collaborating and participating in team discussions and planning.
 - 🤔 I’m on the lookout for Junior entry level roles as a (Frontend-Developer).
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-gift-109120241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AsiughuE)
-
+##### . 📫 How to reach me efeasiughu@gmail.com
+##### . 👨🏻‍💻 Portfolio : [https://efegiftprofile.netlify.app/](https://efegiftprofile.netlify.app/)
 - ⚡ Fun fact: Aside Coding, I love sports.
 
 ---
 
 ### Languages and Tools:
-
+<p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -41,7 +42,7 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
 </a>
-
+</p>
 ---
 ### Top Languages
 
