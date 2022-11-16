@@ -30,7 +30,14 @@
  <a href="https://github.com/gift56" target="_blank" rel="noreferrer"> 
 <img  src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
  </a>
-
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"   style="vertical-align:top; margin: 4px" /> 
+</a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"  alt="TypeScript" height="40" style="vertical-align:top;   margin:4px" /> </a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"  height="40" alt="NextJs" style="vertical-align:top;   margin:4px" />
+</a>
 </p>
  
 ---
