@@ -34,7 +34,8 @@
  <a href="https://github.com/gift56" target="_blank" rel="noreferrer"> 
   <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"    style="padding-right:10px;"/>
  </a>
- <span align="end">
+</p>
+<p align="center">
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
  </a>
@@ -43,8 +44,8 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
 </a>
- </span>
-</p>
+ </p>
+ 
 ---
 ### Top Languages
 
