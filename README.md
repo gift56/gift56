@@ -7,7 +7,6 @@
 
 - :blossom: I have a strong technical skills, visual sense, understanding of UX with strong communication skills.
 
-
 - :trident: I am passionate about web and mobile technologies with great eye for super user experience.
 - 👯 I enjoy collaborating and participating in team discussions and planning.
 - 🤔 I’m on the lookout for Junior entry level roles as a (Frontend-Developer).
