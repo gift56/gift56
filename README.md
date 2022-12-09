@@ -16,8 +16,6 @@
 
 ---
 
-
-
 ### Languages and Tools:
 <p align="center">
  <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
