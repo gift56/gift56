@@ -43,7 +43,7 @@
 <a href="https://styled-components.com/docs" target="_blank" rel="noreferrer">
 <img src="https://images.velog.io/images/jongsunpark88/post/32f4053b-daa1-4fbc-b8e5-2a3d0651faf4/style300.png" alt="styled components" height="40" style="vertical-align:top; margin:4px">
 </a>
- <a href="https://styled-components.com/docs" target="_blank" rel="noreferrer">
+ <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
 <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
 </a>
 
