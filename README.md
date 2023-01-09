@@ -46,7 +46,10 @@
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
 <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
 </a>
-
+ <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer">
+<img src="![image](https://user-images.githubusercontent.com/98314362/211349623-7c1370a8-0041-44b3-b335-8898a3c7a73c.png)
+" alt="Zustand" height="40" style="vertical-align:top; margin:4px">
+</a>
 ---
  
 ### Top Languages
