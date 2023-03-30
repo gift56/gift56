@@ -48,6 +48,9 @@
  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer">
 <img src="https://miro.medium.com/max/800/1*fKV3_Y4usDYZKPsNp1yCvA.png" alt="Zustand" height="40" style="vertical-align:top; margin:4px">
 </a>
+ <a href="https://tanstack.com/query/v3/docs/react/overview" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="React Query" height="40" style="vertical-align:top; margin:4px">
+</a>
  
  
 ---
