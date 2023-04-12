@@ -51,6 +51,9 @@
  <a href="https://tanstack.com/query/v3/docs/react/overview" target="_blank" rel="noreferrer">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="React Query" height="40" style="vertical-align:top; margin:4px">
 </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <img src="https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png" alt="node_js" height="40" style="vertical-align:top; margin:4px">
+</a>
  
  
 ---
