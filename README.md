@@ -1,6 +1,6 @@
 ### Hello 👋. I'm Efe Gift.
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Developer;Aspiring+Full-Stack+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Developer;Full-Stack+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
 
 - :man: I am a Frontend Web Developer with experience using a variety of programming languages to create user-friendly webpages 😊
 
