@@ -28,7 +28,7 @@
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"   height="40" style="vertical-align:top; margin:4px">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
  <a href="https://github.com/gift56" target="_blank" rel="noreferrer"> 
-<img  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
+<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
  </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"   style="vertical-align:top; margin: 4px" /> 
