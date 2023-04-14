@@ -13,7 +13,6 @@
 ##### . 📫 How to reach me efeasiughu@gmail.com
 ##### . 👨🏻‍💻 Portfolio : [https://efegiftprofile.netlify.app/](https://efegiftprofile.netlify.app/)
 - ⚡ Fun fact: Aside Coding, I love sports.
-
 ---
 ### Languages and Tools:
 <p align="center">
