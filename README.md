@@ -60,8 +60,11 @@
    <a href="https://swagger.io/docs/" target="_blank" rel="noreferrer">
   <img src="https://docs.oracle.com/cloud/apiary/images/swagger-logo.png" alt="swagger" height="40" style="vertical-align:top; margin:4px">
 </a>
-    <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+ <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
   <img src="https://asset.brandfetch.io/idFdo8ulhr/idzj34qGQm.png" alt="chartjs" height="40" style="vertical-align:top; margin:4px">
+</a>
+ <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" height="40" style="vertical-align:top; margin:4px">
 </a>
  
 ---
