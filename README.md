@@ -4,15 +4,15 @@
 
 - :man: I am a Frontend Web Developer with experience using a variety of programming languages to create user-friendly webpages 😊
 
-- :blossom: I have a strong technical skills, visual sense, understanding of UX with strong communication skills.
+- :blossom: I have strong technical skills, visual sense, and understanding of UX with strong communication skills.
 
-- :trident: I am passionate about web and mobile technologies with great eye for super user experience.
+- :trident: I am passionate about web and mobile technologies with a great eye for super user experience.
 - 👯 I enjoy collaborating and participating in team discussions and planning.
 - 🤔 I’m on the lookout for Full-time roles as a (Frontend-Developer).
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-gift-109120241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AsiughuE)
 ##### . 📫 How to reach me efeasiughu@gmail.com
 ##### . 👨🏻‍💻 Portfolio : [https://efegiftprofile.netlify.app/](https://efegiftprofile.netlify.app/)
-- ⚡ Fun fact: Aside Coding, I love sports.
+- ⚡ Fun fact: Aside from Coding, I love solving problems and inventing new ideas into reality.
 
 ---
 
