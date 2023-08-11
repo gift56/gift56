@@ -11,7 +11,7 @@
 - 🤔 I’m on the lookout for Full-time roles as a (Frontend-Developer).
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-gift-109120241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AsiughuE)
 ##### . 📫 How to reach me efeasiughu@gmail.com
-##### . 👨🏻‍💻 Portfolio : [Portfolio](https://giftedprofile.netlify.app/)
+##### . 👨🏻‍💻 Portfolio : [My Portfolio Website](https://giftedprofile.netlify.app/)
 - ⚡ Fun fact: Aside from Coding, I love solving problems and inventing new ideas into reality.
 
 ---
