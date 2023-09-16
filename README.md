@@ -15,7 +15,6 @@
 - ⚡ Fun fact: Aside from Coding, I love solving problems and inventing new ideas into reality.
 
 ---
-
 ### Languages and Tools:
 <p align="center">
  <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
