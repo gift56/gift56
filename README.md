@@ -1,14 +1,6 @@
 ### Hello 👋. I'm Efe Gift.
 
-
-<table align="center">
-  <tr>
-    <td>Profile Visitors</td>
-    <td height="25">
-          <img src="https://profile-counter.glitch.me/gift56/count.svg" height="25" />
-   </td>
-  </tr>
-</table>
+<img src="https://profile-counter.glitch.me/gift56/count.svg" height="25" />
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Developer;Full-Stack+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
 
