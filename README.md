@@ -1,5 +1,6 @@
 ### Hello 👋. I'm Efe Gift.
 
+
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Developer;Full-Stack+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
 
 - :man: I am a Fullstack Web Developer with years of experience using a variety of programming languages to create user-friendly webpages 😊
