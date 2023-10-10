@@ -2,6 +2,8 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Developer;Full-Stack+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=gift56)
+
 - :man: I am a Fullstack Web Developer with years of experience using a variety of programming languages to create user-friendly webpages 😊
 - :blossom: I have strong technical skills, visual sense, and understanding of UX with strong communication skills.
 
