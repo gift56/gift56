@@ -70,6 +70,11 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
 </a>
+
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"  alt="TypeScript" height="40" style="vertical-align:top;   
+   margin:4px" /> 
+ </a>
  
 ---
 
