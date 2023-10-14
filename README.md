@@ -72,7 +72,7 @@
 </a>
 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"  alt="TypeScript" height="40" style="vertical-align:top;   
+ <img src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png"  alt="Vuejs" height="40" style="vertical-align:top;   
    margin:4px" /> 
  </a>
  
