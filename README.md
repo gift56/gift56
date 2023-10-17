@@ -70,9 +70,8 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
 </a>
-
  <a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer">
- <img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png"  alt="Vuejs" height="40" style="vertical-align:top;   
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOL6C3zO9ct2c4Bw7618vvtyeYCAAHxKscA&usqp=CAU"  alt="Vuejs" height="40" style="vertical-align:top;   
    margin:4px" /> 
  </a>
  
