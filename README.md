@@ -15,7 +15,6 @@
 ##### . 📫 How to reach me efeasiughu@gmail.com
 ##### . 👨🏻‍💻 Portfolio : [My Portfolio Website](https://giftedprofile.netlify.app/)
 - ⚡ Fun fact: Aside from Coding, I love solving problems and inventing new ideas into reality.
-
 ---
 ### Languages and Tools:
 <p align="center">
