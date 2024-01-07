@@ -76,7 +76,6 @@
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOL6C3zO9ct2c4Bw7618vvtyeYCAAHxKscA&usqp=CAU"  alt="Vuejs" height="40" style="vertical-align:top;   
    margin:4px" /> 
  </a>
- 
 ---
 
 ### Top Languages
@@ -84,4 +83,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gift56)](https://github.com/gift56/github-readme-stats)
 
 ### Stats
-![Gift56's GitHub stats](https://github-readme-stats.vercel.app/api?username=gift56&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=gift56&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
