@@ -1,16 +1,16 @@
 ### Hello 👋. I'm Efe Gift.
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Developer;Full-Stack+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Developer;Nodejs+Developer!;Mobile+Developer!;Frontend+Developer!;It's+Nice+meeting+you...)](https://git.io/typing-svg)
 
 ![](https://github.com/gift56)
 
-- :man: I am a Fullstack Web Developer with years of experience using a variety of programming languages to create user-friendly webpages 😊
+- :man: I am a Web and Mobile Developer with years of experience using a variety of programming languages to create user-friendly web pages, and mobile applications 😊
   
 - :blossom: I have strong technical skills, visual sense, and understanding of UX with strong communication skills.
 
 - :trident: I am passionate about web and mobile technologies with a great eye for super user experience.
 - 👯 I enjoy collaborating and participating in team discussions and planning.
-- 🤔 I’m on the lookout for Full-time roles as a (Fullstack-Developer).
+- 🤔 I’m looking for Full-time roles as a (Fullstack, Mobile, or Frontend developer).
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-gift-109120241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AsiughuE)
 ##### . 📫 How to reach me efeasiughu@gmail.com
 ##### . 👨🏻‍💻 Portfolio : [My Portfolio Website](https://giftedprofile.netlify.app/)
@@ -74,6 +74,14 @@
 </a>
  <a href="https://vuejs.org/guide/introduction.html" target="_blank">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOL6C3zO9ct2c4Bw7618vvtyeYCAAHxKscA&usqp=CAU"  alt="Vuejs" height="40" style="vertical-align:top;   
+   margin:4px" /> 
+ </a>
+   <a href="https://reactnative.dev/docs/getting-started" target="_blank">
+ <img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png"  alt="React Native" height="40" style="vertical-align:top;   
+   margin:4px" /> 
+ </a>
+    <a href="https://expo.dev" target="_blank">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCoY5tnQGvnq1fLi08ZxCRg1Vj6PN16PLLyQ&s"  alt="Expo" height="40" style="vertical-align:top;   
    margin:4px" /> 
  </a>
 ---
