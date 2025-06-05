@@ -60,22 +60,13 @@
   <a href="[https://nodejs.org/en](https://valtio.pmnd.rs/docs/introduction/getting-started)" target="_blank" >
   <img src="https://blog.kakaocdn.net/dn/bMIGgF/btrHunzQ91P/auEHqluVNSN8K8S5snqxWk/img.png" alt="valtio" height="40" style="vertical-align:top; margin:4px">
 </a>
-   <a href="https://swagger.io/docs/" target="_blank" >
-  <img src="https://docs.oracle.com/cloud/apiary/images/swagger-logo.png" alt="swagger" height="40" style="vertical-align:top; margin:4px">
-</a>
  <a href="https://www.chartjs.org/" target="_blank">
   <img src="https://asset.brandfetch.io/idFdo8ulhr/idzj34qGQm.png" alt="charts" height="40" style="vertical-align:top; margin:4px">
 </a>
  <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" height="40" style="vertical-align:top; margin:4px">
 </a>
- <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-</a>
- <a href="https://vuejs.org/guide/introduction.html" target="_blank">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOL6C3zO9ct2c4Bw7618vvtyeYCAAHxKscA&usqp=CAU"  alt="Vuejs" height="40" style="vertical-align:top;   
-   margin:4px" /> 
- </a>
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue" /></a>
    <a href="https://reactnative.dev/docs/getting-started" target="_blank">
  <img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png"  alt="React Native" height="40" style="vertical-align:top;   
    margin:4px" /> 
@@ -84,6 +75,9 @@
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCoY5tnQGvnq1fLi08ZxCRg1Vj6PN16PLLyQ&s"  alt="Expo" height="40" style="vertical-align:top;   
    margin:4px" /> 
  </a>
+   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django" /></a>
 ---
 
 ### Top Languages
